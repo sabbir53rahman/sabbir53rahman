@@ -27,7 +27,7 @@ const sabbir = {
 
 - 🔭 Working at **Techloop Technology Ltd** as a Frontend Engineer
 - 🌱 Deepening expertise in **PostgreSQL**, **Prisma ORM**, and **full-stack TypeScript**
-- 🚀 Contributor to **[Lanxa.net](https://www.lanxa.net)** — a live marketplace with **900K+ users**
+- 🚀 Contributor to **[Lanxa.net](https://www.lanxa.net)** — a live marketplace with **30K+ users**
 - 💬 Ask me about **React, Next.js, Tailwind CSS, REST APIs, or UI performance**
 - 📫 Reach me at **sabbir53rahman@gmail.com**
 
